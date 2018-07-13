@@ -2,4 +2,4 @@
 title: "First dated blog update"
 date: 2018-07-13
 ---
-This is a test update to the blog
+I am frustrated at not being able to figure out why I cant get this to complete
